@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-[https://reactjs-ecommerce-app.vercel.app/](https://subtle-banoffee-000783.netlify.app/)
+https://subtle-banoffee-000783.netlify.app/
 
 ## Features
 
